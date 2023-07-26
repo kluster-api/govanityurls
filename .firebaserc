@@ -6,7 +6,7 @@
     "appscode-govanityurls": {
       "hosting": {
         "hugo": [
-          "appscodelabs-govanityurls"
+          "cluster-api-govanityurls"
         ]
       }
     }

@@ -1,7 +1,11 @@
 # Example vanity.yaml
 
-host: gomodules.xyz
+host: go.cluster-api.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /docker-machine:
+    repo: https://github.com/cluster-api/docker-machine
+  /docker-machine-operator:
+    repo: https://github.com/cluster-api/docker-machine-operator
+  /installer:
+    repo: https://github.com/cluster-api/installer
