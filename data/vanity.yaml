@@ -1,6 +1,6 @@
 # Example vanity.yaml
 
-host: go.cluster-api.dev
+host: go.klusters.dev
 
 paths:
   /docker-machine:
