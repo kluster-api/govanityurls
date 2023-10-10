@@ -3,6 +3,10 @@
 host: go.klusters.dev
 
 paths:
+  /capa-vpc-peering-operator:
+    repo: https://github.com/kluster-api/capa-vpc-peering-operator
+  /capi-config:
+    repo: https://github.com/kluster-api/capi-config
   /docker-machine:
     repo: https://github.com/cluster-api/docker-machine
   /docker-machine-operator:
