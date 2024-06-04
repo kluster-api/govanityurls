@@ -13,7 +13,7 @@ paths:
     repo: https://github.com/cluster-api/docker-machine-operator
   /capi-ops-manager:
     repo: https://github.com/kluster-api/capi-ops-manager
-  /capi-presets:
-    repo: https://github.com/kluster-api/capi-presets
+  /capi-cluster-presets:
+    repo: https://github.com/kluster-api/capi-cluster-presets
   /installer:
     repo: https://github.com/cluster-api/installer
