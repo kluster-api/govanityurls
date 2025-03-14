@@ -1,17 +1,16 @@
-# Example vanity.yaml
-
 host: go.klusters.dev
-
 paths:
+  /aws-credential-manager:
+    repo: https://github.com/kluster-api/aws-credential-manager
   /capa-vpc-peering-operator:
     repo: https://github.com/kluster-api/capa-vpc-peering-operator
   /capi-config:
     repo: https://github.com/kluster-api/capi-config
+  /capi-ops-manager:
+    repo: https://github.com/kluster-api/capi-ops-manager
   /docker-machine:
     repo: https://github.com/cluster-api/docker-machine
   /docker-machine-operator:
     repo: https://github.com/cluster-api/docker-machine-operator
-  /capi-ops-manager:
-    repo: https://github.com/kluster-api/capi-ops-manager
   /installer:
     repo: https://github.com/cluster-api/installer
