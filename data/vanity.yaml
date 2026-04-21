@@ -2,6 +2,8 @@ host: go.klusters.dev
 paths:
   /aws-credential-manager:
     repo: https://github.com/kluster-api/aws-credential-manager
+  /azure-credential-manager:
+    repo: https://github.com/kluster-api/azure-credential-manager
   /capa-vpc-peering-operator:
     repo: https://github.com/kluster-api/capa-vpc-peering-operator
   /capi-config:
@@ -12,5 +14,7 @@ paths:
     repo: https://github.com/cluster-api/docker-machine
   /docker-machine-operator:
     repo: https://github.com/cluster-api/docker-machine-operator
+  /gcp-credential-manager:
+    repo: https://github.com/kluster-api/gcp-credential-manager
   /installer:
     repo: https://github.com/cluster-api/installer
