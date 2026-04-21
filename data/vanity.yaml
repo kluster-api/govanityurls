@@ -2,6 +2,8 @@ host: go.klusters.dev
 paths:
   /aws-credential-manager:
     repo: https://github.com/kluster-api/aws-credential-manager
+  /azure-credential-manager:
+    repo: https://github.com/kluster-api/azure-credential-manager
   /capa-vpc-peering-operator:
     repo: https://github.com/kluster-api/capa-vpc-peering-operator
   /capi-config:
